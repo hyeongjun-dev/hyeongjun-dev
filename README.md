@@ -3,7 +3,7 @@
 <a href="https://linkedin.com/in/hyeongjun-yu-58623948" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@devgang.eth" target="_blank">
+<a href="https://hyeongjun-dev.medium.com" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 <a href="https://youtube.com/@0xdevlog" target="_blank">
@@ -91,7 +91,7 @@ In addition to the technical prowess, I enjoy writing and sharing educational ma
 ### 
 
 ### Latest Articles
-- [How to migrate cache in Large-Scale service](https://medium.com/@devgang.eth/how-to-migrate-cache-in-large-scale-service-3f10c4b07d0d)
+- [How to migrate cache in Large-Scale service](https://medium.com/@hyeongjun-dev/how-to-migrate-cache-in-large-scale-service-3f10c4b07d0d)
 - [Aptos Validator Participation Review](https://medium.com/despread-global/aptos-incentivized-testnet-3-validator-participation-review-15a601a8d00d)
 - [Coindesk Korea : Miami conference review](https://www.coindeskkorea.com/news/articleView.html?idxno=78912)
 - [Stacks BITCOIN UNLEASHED Summit Recap](https://medium.com/despread-global/stacks-bitcoin-unleashed-summit-recap-4cc343c2c3c3)
