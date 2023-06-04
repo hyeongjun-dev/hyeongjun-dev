@@ -1,4 +1,4 @@
-## Hey 👋, I'm Hyeongjun Yu!
+## Hello 👋, I'm Hyeongjun Yu!
 
 <a href="https://linkedin.com/in/hyeongjun-yu-58623948" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -81,14 +81,9 @@ In addition to the technical prowess, I enjoy writing and sharing educational ma
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 </div>  
 
-### Activity
-#### Social
+### Activities
 * [Tech Youtuber](https://youtube.com/@0xdevlog), to educate and share experiences in software development
-
-#### Patents
 * Filed a patent on the LINE corp, 'Based on blockchain, user-focused reward advertising': efficient advertising system by organizing payment and compensation based on user interest.
-
-### 
 
 ### Latest Articles
 - [How to migrate cache in Large-Scale service](https://medium.com/@hyeongjun-dev/how-to-migrate-cache-in-large-scale-service-3f10c4b07d0d)
