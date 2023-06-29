@@ -1,6 +1,6 @@
 ## Hello 👋, I'm Hyeongjun Yu!
 
-<a href="https://linkedin.com/in/hyeongjun-yu-58623948" target="_blank">
+<a href="https://linkedin.com/in/hyeongjun-yu-dev" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://hyeongjun-dev.medium.com" target="_blank">
