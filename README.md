@@ -90,3 +90,6 @@ In addition to the technical prowess, I enjoy writing and sharing educational ma
 - [Aptos Validator Participation Review](https://medium.com/despread-global/aptos-incentivized-testnet-3-validator-participation-review-15a601a8d00d)
 - [Coindesk Korea : Miami conference review](https://www.coindeskkorea.com/news/articleView.html?idxno=78912)
 - [Stacks BITCOIN UNLEASHED Summit Recap](https://medium.com/despread-global/stacks-bitcoin-unleashed-summit-recap-4cc343c2c3c3)
+
+### Email
+- hyeongjun.dev@gmail.com
