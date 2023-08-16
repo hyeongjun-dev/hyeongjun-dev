@@ -6,9 +6,6 @@
 <a href="https://hyeongjun-dev.medium.com" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
-<a href="https://youtube.com/@0xdevlog" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
 <a href="https://twitter.com/devgang_eth" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -82,7 +79,6 @@ In addition to the technical prowess, I enjoy writing and sharing educational ma
 </div>  
 
 ### Activities
-* [Tech Youtuber](https://youtube.com/@0xdevlog), to educate and share experiences in software development
 * Filed a patent on the LINE corp, 'Based on blockchain, user-focused reward advertising': efficient advertising system by organizing payment and compensation based on user interest.
 
 ### Latest Articles
