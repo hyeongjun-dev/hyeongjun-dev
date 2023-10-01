@@ -18,7 +18,7 @@ I love designing systems that are light yet powerful, distributed yet synchroniz
 In addition to the technical prowess, I enjoy writing and sharing educational materials and technical documentation to help fellow developers and the general public understand software development.
 
 ### Work Experiences
-* CTO at [DeSpread Labs](https://despread.io), the blockchain infrastructure provider, validator and develop product.
+* Dev Lead at [DeSpread Labs](https://despread.io), the blockchain infrastructure provider, validator and develop product.
 * Tech Ambassador at [Stacks](https://www.stacks.co) Korea, a Bitcoin Layer for smart contracts.
 * Prev. Backend Software Core Engineer at LINE Corp, NAVER' global messenger service. (6 years)
 * Prev. Software Camp Member(MVP) at [Samsung](https://www.samsung.com) Software Membership.(2 years)
