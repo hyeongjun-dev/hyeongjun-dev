@@ -82,6 +82,8 @@ In addition to the technical prowess, I enjoy writing and sharing educational ma
 * Filed a patent on the LINE corp, 'Based on blockchain, user-focused reward advertising': efficient advertising system by organizing payment and compensation based on user interest.
 
 ### Latest Articles
+- [Journey to Kubernetes Adoption: Maximizing Growth and Efficiency](https://research.despread.io/kubernetes)
+- [Berachain: Building Validator Monitoring Infrastructure](https://medium.com/despread-global/berachain-building-validator-monitoring-infrastructure-854a2f961550)
 - [How to migrate cache in Large-Scale service](https://medium.com/@hyeongjun-dev/how-to-migrate-cache-in-large-scale-service-3f10c4b07d0d)
 - [Aptos Validator Participation Review](https://medium.com/despread-global/aptos-incentivized-testnet-3-validator-participation-review-15a601a8d00d)
 - [Coindesk Korea : Miami conference review](https://www.coindeskkorea.com/news/articleView.html?idxno=78912)
